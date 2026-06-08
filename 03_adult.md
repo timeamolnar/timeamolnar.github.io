@@ -2,7 +2,7 @@
 layout: post
 title: Felnőtt nyelvórák
 description: Egyéni es kiscsoportos felnőtt nyelvórák
-image: 
+image: assets/images/pic10.jpg
 nav-menu: true
 ---
 

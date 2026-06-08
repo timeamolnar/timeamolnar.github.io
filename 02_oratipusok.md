@@ -2,7 +2,7 @@
 title: Óratípusok
 layout: landing
 description: 'Válassz az alábbi óratípusok közül!'
-image: 
+image: assets/images/pic07.jpg 
 nav-menu: true
 ---
 
@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>Szeretnél magabiztosabban kommunikálni angolul a munkádban, utazás közben vagy a mindennapokban? A felnőtt angol órák célja, hogy saját igényeidhez és céljaidhoz igazodva fejlődhess egy támogató, barátságos légkörben.</p>
 				<ul class="actions">
-					<li><a href="03_adult.html" class="button">Learn more</a></li>
+					<li><a href="03_adult.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>Célom, hogy a gyermekek számára az angol nyelv tanulása élményt jelentsen, hiszen így fejlődnek a legtermészetesebb módon.</p>
 				<ul class="actions">
-					<li><a href="04_kid.html" class="button">Learn more</a></li>
+					<li><a href="04_kid.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
@@ -54,7 +54,7 @@ nav-menu: true
 				</header>
 				<p>Tapasztalataim szerint a nyelvtanulás kisgyermekkorban akkor a leghatékonyabb, ha szeretetteljes és élményekkel teli közegben történik.</p>
 				<ul class="actions">
-					<li><a href="05_storytime.html" class="button">Learn more</a></li>
+					<li><a href="05_storytime.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
