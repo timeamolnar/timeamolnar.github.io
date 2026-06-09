@@ -1,7 +1,7 @@
 ---
 title: Óratípusok
 layout: landing
-description: 'Válassz az alábbi óratípusok közül!'
+description: 'A foglalkozások helyszíne Alsóörs. Válassz az alábbi óratípusok közül!'
 image: assets/images/pic07.jpg 
 nav-menu: true
 ---
@@ -59,7 +59,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	
 </section>
 
 </div>
