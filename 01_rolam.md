@@ -16,4 +16,4 @@ Hét évet éltem Angliában, és mindhárom gyermekünket születésük óta k�
 
 Várom megkeresésüket, ha szeretnének segítségemmel angolul tanulni, vagy gyermekük számára keresnek támogató, játékos angol nyelvi foglalkozást. Örömmel segítek abban, hogy az angoltanulás pozitív élmény és hosszú távon magabiztos nyelvhasználat alapja legyen kicsiknek és nagyoknak egyaránt. 
 
-Az egyéni, kiscsoportos és gyermekfoglalkozások helyszíne Alsóörs.
+Az egyéni, kiscsoportos nyelvórák és a gyermekfoglalkozások helyszíne is Alsóörs.
