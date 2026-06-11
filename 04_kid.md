@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gyermek nyelvórák
-description: Egyéni es kiscsoportos gyermek nyelvórák
+description: Egyéni és kiscsoportos gyermek nyelvórák
 image: assets/images/pic08.jpg
 nav-menu: true
 show_tile: false

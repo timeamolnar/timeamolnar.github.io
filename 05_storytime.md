@@ -1,7 +1,7 @@
 ---
 layout: post
 title: English Story Time
-description: English Story Time
+description: Mesés, mondókázós angol foglalkozás
 image: assets/images/pic09.jpg
 nav-menu: true
 show_tile: false
