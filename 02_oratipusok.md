@@ -18,7 +18,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Egyéni es kiscsoportos felnőtt nyelvórák</h3>
+					<h3>Egyéni és kiscsoportos felnőtt nyelvórák</h3>
 				</header>
 				<p>Szeretnél magabiztosabban kommunikálni angolul a munkádban, utazás közben vagy a mindennapokban? A felnőtt angol órák célja, hogy saját igényeidhez és céljaidhoz igazodva fejlődhess egy támogató, barátságos légkörben.</p>
 				<ul class="actions">
@@ -34,7 +34,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Egyéni es kiscsoportos gyermek nyelvórák</h3>
+					<h3>Egyéni és kiscsoportos gyermek nyelvórák</h3>
 				</header>
 				<p>Célom, hogy a gyermekek számára az angol nyelv tanulása élményt jelentsen, hiszen így fejlődnek a legtermészetesebb módon.</p>
 				<ul class="actions">
