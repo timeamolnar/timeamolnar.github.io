@@ -4,6 +4,7 @@ title: Gyermek nyelvórák
 description: Egyéni es kiscsoportos gyermek nyelvórák
 image: assets/images/pic08.jpg
 nav-menu: true
+show_tile: false
 ---
 
 Célom, hogy a gyermekek számára az angol nyelv tanulása élményt jelentsen, hiszen így fejlődnek a legtermészetesebb módon, ezért minden órát a gyermek életkorához, érdeklődéséhez, nyelvi szintjéhez és személyiségéhez igazítok.

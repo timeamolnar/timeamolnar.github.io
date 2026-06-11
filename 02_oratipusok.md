@@ -1,7 +1,7 @@
 ---
 title: Óratípusok
 layout: landing
-description: 'Minden foglalkozás és nyelvóra helyszíne Alsóörs, beleértve az egyéni és kiscsoportos nyelvórákat, valamint a gyermekeknek szóló foglalkozásokat is.'
+description: 'Válassz az angol óratípusok közül!'
 image: assets/images/pic07.jpg 
 nav-menu: true
 ---

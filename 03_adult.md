@@ -4,6 +4,7 @@ title: Felnőtt nyelvórák
 description: Egyéni es kiscsoportos felnőtt nyelvórák
 image: assets/images/pic10.jpg
 nav-menu: true
+show_tile: false
 ---
 
 Szeretnél magabiztosabban kommunikálni angolul a munkádban, utazás közben vagy a mindennapokban? A felnőtt angol órák célja, hogy saját igényeidhez és céljaidhoz igazodva fejlődhess egy támogató, barátságos légkörben.

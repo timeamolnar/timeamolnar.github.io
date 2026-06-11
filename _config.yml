@@ -2,7 +2,7 @@
 title: Molnár Tímea
 subtitle: 
 email: timea.molnar3@gmail.com
-description: Üdvözöllek a személyes weboldalomon!
+description: Üdvözöllek a személyes weboldalomon! <br /> Minden foglalkozás és angol nyelvóra helyszíne Alsóörs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -26,9 +26,9 @@ socials:
   GitLab:
   Google-Plus: 
   Instagram:
-  LinkedIn: 
+  LinkedIn: https://www.linkedin.com/in/timeamolnar3/
   Twitter: 
-  Facebook:
+  Facebook: https://www.facebook.com/tomi.timi.77
   Slack:
 
 # build settings

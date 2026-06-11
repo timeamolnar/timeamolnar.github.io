@@ -350,3 +350,53 @@
 	});
 
 })(jQuery);
+
+document.addEventListener("DOMContentLoaded", function() {
+    var form = document.querySelector("#contact form");
+    if (!form) return;
+
+    var name = form.querySelector("#name");
+    var email = form.querySelector("#email");
+    var message = form.querySelector("#message");
+
+    function validateFields() {
+        if (name) {
+            if (name.value.trim() === '')
+                name.setCustomValidity('Kérlek add meg a nevedet!');
+            else
+                name.setCustomValidity('');
+        }
+
+		if (email) {
+			var ev = email.value.trim();
+			if (ev === '')
+				email.setCustomValidity('Kérlek add meg az email címedet!');
+			else {
+				var re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+				if (!re.test(ev))
+					email.setCustomValidity('Kérlek érvényes email címet adj meg!');
+				else
+					email.setCustomValidity('');
+			}
+		}
+
+        if (message) {
+            if (message.value.trim() === '')
+                message.setCustomValidity('Kérlek írj üzenetet!');
+            else
+                message.setCustomValidity('');
+        }
+    }
+
+    ["input", "change"].forEach(function(eventName) {
+        form.addEventListener(eventName, validateFields);
+    });
+
+    form.addEventListener("submit", function(event) {
+        validateFields();
+        if (!form.checkValidity()) {
+            event.preventDefault();
+            form.reportValidity();
+        }
+    });
+});
