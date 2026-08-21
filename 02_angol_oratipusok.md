@@ -1,5 +1,5 @@
 ---
-title: Óratípusok
+title: Angol
 layout: landing
 description: 'Válassz az angol óratípusok közül!'
 image: assets/images/pic07.jpg 
