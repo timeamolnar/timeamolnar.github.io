@@ -16,6 +16,6 @@ A rendszeres gyakorlás segít:
 - feltöltődni és kiszakadni a mindennapok rohanásából.
 
 Hiszem, hogy a fejlődéshez nemcsak megfelelő szakmai iránymutatásra, hanem biztonságos, támogató légkörre is szükség van. A kiscsoportos órákon ezt a kettőt ötvözöm: szakmailag megalapozott, személyre szabott gyakorlást egy motiváló közösség erejével.
-Az órák Balatonalmádiban, a Pilates Flow Studioban érhetőek el.
+Az órák Balatonalmádiban, a Pilates Flow Studioban lesznek hamarosan elérhetőek.
 
 

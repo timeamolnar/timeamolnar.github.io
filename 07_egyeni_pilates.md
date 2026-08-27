@@ -16,4 +16,4 @@ Az egyéni foglalkozások célja, hogy segítsenek:
 - fejleszteni a testtudatot és az önbizalmat a mozgásban.
 
 Hiszem, hogy mindenki képes fejlődni a saját tempójában. Az órákon támogató, nyugodt légkörben dolgozunk együtt, ahol a figyelem a minőségi mozgáson és a hosszú távon fenntartható fejlődésen van.
-Az órák Balatonalmádiban, a Pilates Flow Studioban érhetőek el.
+Az órák Balatonalmádiban, a Pilates Flow Studioban lesznek hamarosan elérhetőek.
