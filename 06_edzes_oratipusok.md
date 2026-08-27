@@ -3,7 +3,7 @@ title: Reformer Pilates
 layout: landing
 description: 'Válassz a pilates óratípusok közül!'
 image: assets/images/pic13.jpg 
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

@@ -3,13 +3,13 @@ layout: post
 title: Reformer Pilates in English
 description: Private and Small Group Classes in Balatonalmádi
 image: 
-nav-menu: true
+nav-menu: false
 ---
 Whether you are completely new to Pilates or already have experience, my goal is to help you move with confidence, improve your strength and mobility, and enjoy the process every step of the way.
 
 As a STOTT Reformer Pilates Essential and Intermediate Trained Instructor, I offer personalised sessions that focus on proper technique, mindful movement, and long-term wellbeing. Every class is tailored to your individual needs, helping you build strength, improve posture, increase flexibility, and develop better body awareness in a safe and supportive environment.
 
-Classes are available in English, making them an excellent option for international residents, visitors, and anyone who feels more comfortable exercising in English.
+Classes will be soon available in English, making them an excellent option for international residents, visitors, and anyone who feels more comfortable exercising in English.
 
 ## What I offer
 * Private Reformer Pilates sessions (1:1)
