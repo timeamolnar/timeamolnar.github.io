@@ -16,3 +16,9 @@ Fontos számomra, hogy a tanulás érdekes és motiváló legyen, ezért változ
 A foglalkozások egyéni vagy kiscsoportos formában is elérhetők. A kiscsoportos órák lehetőséget adnak a közös gyakorlásra és a kötetlen beszélgetésekre, miközben továbbra is személyre szabott figyelmet biztosítanak minden résztvevő számára.
 
 Célom, hogy az angoltanulás ne kötelezettség, hanem sikerélmény legyen, és hogy tanítványaim magabiztosabban, felszabadultabban használják az angol nyelvet a mindennapokban.
+
+Az egyéni, kiscsoportos nyelvórák helyszíne Alsóörs. 
+
+
+Érdeklődés: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
+

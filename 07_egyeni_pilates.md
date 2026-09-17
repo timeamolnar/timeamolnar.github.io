@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Egyéni Pilates
+title: Egyéni Reformer Pilates
 description: Egyéni Reformer Pilates órák 
 image: assets/images/pic11.jpg
 nav-menu: false
@@ -16,4 +16,13 @@ Az egyéni foglalkozások célja, hogy segítsenek:
 - fejleszteni a testtudatot és az önbizalmat a mozgásban.
 
 Hiszem, hogy mindenki képes fejlődni a saját tempójában. Az órákon támogató, nyugodt légkörben dolgozunk együtt, ahol a figyelem a minőségi mozgáson és a hosszú távon fenntartható fejlődésen van.
-Az órák Balatonalmádiban, a Pilates Flow Studioban lesznek hamarosan elérhetőek.
+
+Az órák Balatonalmádi, Babits Mihály utca 5. alatt, a Pilates Flow Studioban érhetőek el.
+
+<iframe
+  id="signUpFrame"
+  title="Sign Up Here"
+  width="100%"
+  height="500"
+  src="https://www.motibro.com/visitors/reservation_widget?course_ids=30017%2C30014%2C31790%2C30012%2C32272%2C32323%2C30015%2C30013&location_ids=3753%2C3752&operator=pilatesflow-motionlab&premise_ids=5210%2C5211%2C5209&trainer_ids=11685%2C10940">
+</iframe>

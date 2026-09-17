@@ -21,6 +21,9 @@ nav-menu: false
 					<h3>Egyéni Reformer Pilates</h3>
 				</header>
 				<p>Az egyéni Reformer Pilates órákon nem másokhoz mérjük a fejlődést, hanem önmagadhoz. Célom, hogy biztonságos, támogató környezetben fedezd fel a mozgás örömét, erősödj, magabiztosabbá válj, és olyan testtudatot alakíts ki, amely a mindennapokban is elkísér.</p>
+				<ul class="actions">
+					<li><a href="07_egyeni_pilates.html" class="button">Tovább</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -34,6 +37,9 @@ nav-menu: false
 					<h3>Kiscsoportos Reformer Pilates (max. 4 fő)</h3>
 				</header>
 				<p>A legfeljebb négyfős csoportok lehetőséget adnak arra, hogy minden résztvevőre valódi figyelem jusson. Fontos számomra, hogy ne csak együtt mozogjunk, hanem mindenki biztonságosan, a saját szintjének megfelelően fejlődhessen. A közös gyakorlás motiváló ereje, a támogató légkör és a STOTT Pilates precíz szemlélete együtt teremtenek olyan élményt, ahol öröm a mozgás, és a fejlődés természetes része az útnak.</p>
+				<ul class="actions">
+					<li><a href="08_kiscsoportos_pilates.html" class="button">Tovább</a></li>
+				</ul>
 			</div>
 		</div>
 	</section>

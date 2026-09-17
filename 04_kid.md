@@ -17,3 +17,7 @@ Legyen szó az angollal való első ismerkedésről, az iskolai tananyag megerő
 
 Célom, hogy a gyermekek ne csak tanulják az angolt, hanem megszeressék és örömmel használják is majd a mindennapokban.
 
+Az egyéni, kiscsoportos nyelvórák és a gyermekfoglalkozások helyszíne Alsóörs. 
+
+
+Érdeklődés: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
