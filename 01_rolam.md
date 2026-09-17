@@ -60,13 +60,13 @@ nav-menu: true
 <p>
         Reformer pilates óráim Balatonalmádiban, a Pilates Flow Studioban érhetőek el.
     <h4>
-        Bejelentkezés egyéni órára: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
+        BEJENTKEZÉS: Hívj, vagy írj a lent található elérhetőségek egyikén!
     </h4>
-    <ul class="actions">
+    <!--<ul class="actions">
                         <li>
                         <a href="https://www.motibro.com/visitors/reservation_widget?course_ids=30017%2C30014%2C31790%2C30012%2C32272%2C32323%2C30015%2C30013&location_ids=3753%2C3752&operator=pilatesflow-motionlab&premise_ids=5210%2C5211%2C5209&trainer_ids=11685%2C10940" class="button special">Bejelentkezés csoportos órára</a>
                         </li>
-    </ul>
+    </ul>-->
 </p>
 </div>
 </div>

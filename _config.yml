@@ -4,7 +4,7 @@ subtitle:
 email: move.grow.mt@gmail.com
 description: 'Üdvözöllek a személyes weboldalomon! <br/> Az angol nyelvórák és foglalkozások helyszíne Alsóörs. <br/> Pilates óráim Balatonalmádiban, a Pilates Flow Studioban érhetőek el. <br/><br/> Welcome to my website! <br/> Pilates classes are also available in English in the Pilates Flow Studio, Balatonalmádi. <br/> Please find all the details on the Reformer Pilates in English tile below.' 
 baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://www.molnartimea.hu # the base hostname & protocol for your site
 author:
 street_address: 
 city: Alsóörs, Balatonalmádi
@@ -28,7 +28,7 @@ socials:
   Instagram:
   LinkedIn: 
   Twitter: 
-  Facebook: 
+  Facebook: https://www.facebook.com/tomi.timi.77
   Slack:
 
 # build settings
