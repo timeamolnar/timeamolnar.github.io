@@ -3,7 +3,7 @@ layout: post
 title: English Story Time
 description: Mesés, mondókázós angol foglalkozás
 image: assets/images/pic09.jpg
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
@@ -13,7 +13,7 @@ Tapasztalataim szerint a nyelvtanulás kisgyermekkorban akkor a leghatékonyabb,
 
 Ezért is gondolom úgy, hogy kisgyermekkorban a nyelvtanulás legfontosabb szerepe nem feltétlenül a nyelvtan vagy a szókincs tudatos elsajátítása, hanem az, hogy a gyerekek megtapasztalják: egy új nyelv megismerése öröm, játék és élmény.
 
-Ezeken a foglalkozásokon együtt énekelünk, mondókázunk, mesélünk és játszunk a gyerekekkel, hogy játékos, szerethető módon ébredjen fel bennük az angol nyelv iránti érdeklődés.
+Ezeken a foglalkozásokon együtt énekelek, mondókázok, mesélek és játszok a gyerekekkel, hogy játékos, szerethető módon ébredjen fel bennük az angol nyelv iránti érdeklődés.
 
 A foglalkozások célja, hogy a gyerekek:
 - játékosan találkozzanak az angol nyelvvel,

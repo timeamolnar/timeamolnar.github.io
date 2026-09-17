@@ -3,13 +3,13 @@ layout: post
 title: Gyermek nyelvórák
 description: Egyéni és kiscsoportos gyermek nyelvórák
 image: assets/images/pic08.jpg
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
 Célom, hogy a gyermekek számára az angol nyelv tanulása élményt jelentsen, hiszen így fejlődnek a legtermészetesebb módon, ezért minden órát a gyermek életkorához, érdeklődéséhez, nyelvi szintjéhez és személyiségéhez igazítok.
 
-Az egyéni és kiscsoportos foglalkozások során célom, hogy a gyerekek magabiztosan és természetes módon kezdjék használni az angol nyelvet. Az órák játékosak, változatosak és interaktívak: mesékkel, dalokkal, szerepjátékokkal, képes feladatokkal és a gyermekek érdeklődési köréhez kapcsolódó témákkal teszem élvezetessé a tanulást.
+Az egyéni és kiscsoportos foglalkozások játékos, változatos és interaktív élményt nyújtanak. Mesékkel, dalokkal, szerepjátékokkal, képes feladatokkal fedezzük fel az angol nyelvet, és teremtünk lehetőséget arra, hogy egyre magabiztosabban, természetes módon használják azt.
 
 Nagy hangsúlyt fektetek a beszédkészség fejlesztésére, hiszen a nyelv elsősorban kommunikációs eszköz. Barátságos, támogató légkörben dolgozom, ahol a gyerekek bátran megszólalhatnak, hibázhatnak és kérdezhetnek.
 
@@ -20,4 +20,6 @@ Célom, hogy a gyermekek ne csak tanulják az angolt, hanem megszeressék és ö
 Az egyéni, kiscsoportos nyelvórák és a gyermekfoglalkozások helyszíne Alsóörs. 
 
 
-Érdeklődés: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
+<h4>
+        ÉRDEKLŐDÉS: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
+</h4>
