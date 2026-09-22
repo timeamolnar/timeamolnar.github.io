@@ -58,7 +58,7 @@ nav-menu: true
     Nyáron sikeresen elvégeztem a STOTT Reformer Pilates Alap és Középhaladó oktatói képzését, és célom, hogy oktatóként minél több emberrel ismertessem meg a mozgás örömét és a pilates hosszú távú, életminőséget javító hatásait. Emellett jelenleg az IWI fitness instruktori képzését végzem, hogy még átfogóbb tudással rendelkezzek a hozzám fordulók segítéséhez 
     </p>
 <p>
-        Reformer pilates óráim Balatonalmádiban, a Pilates Flow Studioban érhetőek el.
+        Reformer pilates óráim Balatonalmádiban, a <a href="https://www.pilatesflow.hu">Pilates Flow Studioban</a> érhetőek el.
     <h4>
         BEJENTKEZÉS: Hívj, vagy írj a lent található elérhetőségek egyikén!
     </h4>

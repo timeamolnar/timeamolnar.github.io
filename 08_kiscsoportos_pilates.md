@@ -17,7 +17,7 @@ A rendszeres gyakorlás segít:
 
 Hiszem, hogy a fejlődéshez nemcsak megfelelő szakmai iránymutatásra, hanem biztonságos, támogató légkörre is szükség van. A kiscsoportos órákon ezt a kettőt ötvözöm: szakmailag megalapozott, személyre szabott gyakorlást egy motiváló közösség erejével.
 
-Az órák Balatonalmádi, Babits Mihály utca 5. alatt, a Pilates Flow Studioban érhetőek el.
+Az órák Balatonalmádi, Babits Mihály utca 5. alatt, a <a href="https://www.pilatesflow.hu">Pilates Flow Studioban</a> érhetőek el.
 
 <h4>
         ÉRDEKLŐDÉS: Hívj, vagy írj a lent található elérhetőségek egyikén!

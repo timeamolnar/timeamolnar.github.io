@@ -20,8 +20,8 @@ Classes are available in English, making them an excellent option for internatio
 I am looking forward to welcoming you and helping you discover how Pilates can improve not only the way you move, but also how you feel in your everyday life.
 
 **Location:**  
-Pilates Flow Studio  
-Babits Mihály street 5.
+Pilates Flow Studio
+1st floor, 5. Babits Mihály street  
 Balatonalmádi
 
 <h4>
