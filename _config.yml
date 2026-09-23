@@ -2,7 +2,7 @@
 title: Molnár Tímea
 subtitle: 
 email: move.grow.mt@gmail.com
-description: 'Üdvözöllek a személyes weboldalomon! <br/> Az angol nyelvórák és foglalkozások helyszíne Alsóörs. <br/> Pilates óráim Balatonalmádiban, a Pilates Flow Studioban érhetőek el. <br/><br/> Welcome to my website! <br/> Pilates classes are also available in English in the Pilates Flow Studio, Balatonalmádi. <br/> Please find all the details on the Reformer Pilates in English tile below.' 
+description: 'Üdvözöllek a személyes weboldalomon! <br/> Angol nyelvórák és játékos foglalkozások Alsóörsön, gyermekeknek és felnőtteknek, egyéni és kiscsoportos formában.<br/>Reformer Pilates órák Balatonalmádiban, a Pilates Flow Studioban, magyar és angol nyelven.<br/><br/> Welcome to my website! <br/> Reformer Pilates classes are available in English at the Pilates Flow Studio in Balatonalmádi. </br> Find all the details about Reformer Pilates in English in the section below. <br/> ' 
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://www.molnartimea.hu # the base hostname & protocol for your site
 author:
@@ -25,7 +25,7 @@ socials:
   GitHub: 
   GitLab:
   Google-Plus: 
-  Instagram:
+  Instagram: 
   LinkedIn: 
   Twitter: 
   Facebook: https://www.facebook.com/tomi.timi.77

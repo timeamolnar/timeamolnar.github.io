@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kiscsoportos Reformer Pilates
-description: Kiscsoportos reformer pilates órák (max. 4 fő)
+description: Kiscsoportos reformer pilates órák Balatonalmádiban
 image: assets/images/pic12.jpg
 nav-menu: false
 show_tile: false

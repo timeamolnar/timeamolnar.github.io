@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="03_adult.html" class="image">
+		<a href="03_angol_felnotteknek.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -22,13 +22,13 @@ nav-menu: true
 				</header>
 				<p>Szeretnél magabiztosabban kommunikálni angolul a munkádban, utazás közben vagy a mindennapokban? A felnőtt angol órák célja, hogy saját igényeidhez és céljaidhoz igazodva fejlődhess egy támogató, barátságos légkörben.</p>
 				<ul class="actions">
-					<li><a href="03_adult.html" class="button">Tovább</a></li>
+					<li><a href="03_angol_felnotteknek.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="04_kid.html" class="image">
+		<a href="04_angol_gyerekeknek.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,13 +38,13 @@ nav-menu: true
 				</header>
 				<p>Célom, hogy a gyermekek számára az angol nyelv tanulása élményt jelentsen, hiszen így fejlődnek a legtermészetesebb módon.</p>
 				<ul class="actions">
-					<li><a href="04_kid.html" class="button">Tovább</a></li>
+					<li><a href="04_angol_gyerekeknek.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="05_storytime.html" class="image">
+		<a href="05_storytime_gyerekeknek.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: true
 				</header>
 				<p>Tapasztalataim szerint a nyelvtanulás kisgyermekkorban akkor a leghatékonyabb, ha szeretetteljes és élményekkel teli közegben történik.</p>
 				<ul class="actions">
-					<li><a href="05_storytime.html" class="button">Tovább</a></li>
+					<li><a href="05_storytime_gyerekeknek.html" class="button">Tovább</a></li>
 				</ul>
 			</div>
 		</div>
