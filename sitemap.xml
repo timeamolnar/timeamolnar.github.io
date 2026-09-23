@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://www.molnartimea.hu/</loc>
+       <lastmod>2026-09-23T13:09:13+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/01_bemutatkozas.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/02_angol_oratipusok.html</loc>
+       <lastmod>2026-09-23T13:09:13+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/06_english_pilates.html</loc>
+       <lastmod>2026-09-23T13:09:13+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/09_edzes_oratipusok.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/03_angol_felnotteknek.html</loc>
+       <lastmod>2026-09-23T13:09:13+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/04_angol_gyerekeknek.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/05_storytime_gyerekeknek.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/07_egyeni_pilates.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.molnartimea.hu/08_kiscsoportos_pilates.html</loc>
+       <lastmod>2026-09-23T13:09:10+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
