@@ -8,7 +8,7 @@ show_tile: true
 ---
 Whether you are completely new to Pilates or already have experience, my goal is to help you move with confidence, improve your strength and mobility, and enjoy the process every step of the way.
 
-As a STOTT Reformer Pilates Essential and Intermediate Trained Instructor, I offer personalised sessions that focus on proper technique, mindful movement, and long-term wellbeing. Every class is tailored to your individual needs, helping you build strength, improve posture, increase flexibility, and develop better body awareness in a safe and supportive environment.
+As a STOTT PILATES® Trained Instructor specializing in Reformer Pilates on Essential and Intermediate level, I offer personalised sessions that focus on proper technique, mindful movement, and long-term wellbeing. Every class is tailored to your individual needs, helping you build strength, improve posture, increase flexibility, and develop better body awareness in a safe and supportive environment.
 
 Classes are available in English, making them an excellent option for international residents, visitors, and anyone who feels more comfortable exercising in English.
 
@@ -26,7 +26,7 @@ Pilates Flow Studio
 Balatonalmádi
 
 <h4>
-        SIGN UP: Please contact me, find my contact details on the bottom of the website. 
+        SIGN UP: Please contact me, find my contact details below. 
 </h4>
 
 <!--<iframe
