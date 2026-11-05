@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Kiscsoportos Reformer Pilates
+title: Kiscsoportos Pilates Reformeren
 description: Kiscsoportos reformer pilates órák Balatonalmádiban
 image: assets/images/pic12.jpg
 nav-menu: false
 show_tile: false
 ---
 
-A kiscsoportos reformer pilates órák ötvözik a közös mozgás motiváló erejét az egyéni figyelemmel. A legfeljebb négyfős csoportlétszámnak köszönhetően minden résztvevő személyre szabott útmutatást és szükség esetén korrekciót kap, miközben egy támogató, inspiráló közösség részeként fejlődhet.
+A kiscsoportos pilates órák ötvözik a közös mozgás motiváló erejét az egyéni figyelemmel. A legfeljebb négyfős csoportlétszámnak köszönhetően minden résztvevő személyre szabott útmutatást és szükség esetén korrekciót kap, miközben egy támogató, inspiráló közösség részeként fejlődhet.
 A STOTT Pilates szemlélete a gerinc természetes görbületeinek megőrzésére, a helyes testtartás kialakítására és a tudatos, precíz mozgáskivitelezésre épül. Az órák célja nem csupán az izmok erősítése, hanem a mozgásminőség javítása, a testtudat fejlesztése és a kiegyensúlyozott, harmonikus mozgás kialakítása.
+
 A rendszeres gyakorlás segít:
 - javítani a testtartást és a mozgásmintákat,
 - fejleszteni az erőt, a mobilitást és a stabilitást,

@@ -41,7 +41,7 @@ nav-menu: true
         Hiszek abban, hogy mindenki képes fejlődni, ha megfelelő támogatást, biztatást és lehetőséget kap. 
         </p>
         <p>
-        Az egyéni, kiscsoportos nyelvórák és a gyermekfoglalkozások helyszíne Alsóörs. 
+        Az egyéni, kiscsoportos nyelvórák és gyermekfoglalkozások helyszíne Alsóörs. 
         <h4>
         ÉRDEKLŐDÉS: Hívj, vagy írj nyugodtan a lent található elérhetőségek egyikén!
         </h4>
@@ -54,11 +54,12 @@ nav-menu: true
     Gyerekkorom óta meghatározó része az életemnek a mozgás és a sport. Nem csupán egy hobbi számomra, hanem olyan érték és életforma, amely végigkísért életem minden szakaszán, formálta a személyiségemet, és mindig erőt adott az új kihívásokhoz. Már óvodásként úszni tanultam, általános iskolában sport tagozatra jártam, később pedig számos futóversenyen vettem részt, köztük négy félmaratont is lefutottam. Tavaly sikeresen teljesítettem életem első Balaton-átúszását, majd idén kipróbáltam a triatlont is, amely újabb felejthetetlen élménnyel gazdagított.
     </p>
 <p>
-    A reformer pilatesre két éve találtam rá, és azóta töretlenül gyakorlom. Nagyon hamar magával ragadott, hogy milyen sokoldalúan képes fejleszteni a testet: egyszerre fejleszti az erőt, a mobilitást, a testtudatot, az egyensúlyt és a koncentrációt. <br/><br/>
-    Nyáron sikeresen elvégeztem a STOTT Reformer Pilates Alap és Középhaladó oktatói képzését, és célom, hogy oktatóként minél több emberrel ismertessem meg a mozgás örömét és a pilates hosszú távú, életminőséget javító hatásait. Emellett jelenleg az IWI fitness instruktori képzését végzem, hogy még átfogóbb tudással rendelkezzek a hozzám fordulók segítéséhez 
+    A pilatesre két éve találtam rá, és azóta töretlenül gyakorlom. Nagyon hamar magával ragadott, hogy milyen sokoldalúan képes fejleszteni a testet: egyszerre fejleszti az erőt, a mobilitást, a testtudatot, az egyensúlyt és a koncentrációt. <br/><br/>
+    Nyáron sikeresen elvégeztem a STOTT Reformer Pilates Alap és Középhaladó oktatói képzését, és célom, hogy oktatóként minél több emberrel ismertessem meg a mozgás örömét és a pilates hosszú távú, életminőséget javító hatásait. <br/> Emellett jelenleg az IWI fitness instruktori képzését végzem, hogy még átfogóbb tudással rendelkezzek a hozzám fordulók segítéséhez. <br/>
+    Valamint terveim szerint a Stott Pilates Talaj alap és középhaladó oktatói tanfolyamát februárban fogom elvégezni, így teljes képet kapva a módszerről ezen a szinten.
     </p>
 <p>
-        Reformer pilates óráim Balatonalmádiban, a <a href="https://www.pilatesflow.hu">Pilates Flow Studioban</a> érhetőek el.
+        Pilates óráim reformeren Balatonalmádiban, a <a href="https://www.pilatesflow.hu">Pilates Flow Studioban</a> érhetőek el.
     <h4>
         BEJENTKEZÉS: Hívj, vagy írj a lent található elérhetőségek egyikén!
     </h4>

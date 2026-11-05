@@ -13,8 +13,8 @@ As a STOTT PILATES® Trained Instructor specializing in Reformer Pilates on Esse
 Classes are available in English, making them an excellent option for international residents, visitors, and anyone who feels more comfortable exercising in English.
 
 ## What I offer
-* Private reformer Pilates sessions (1:1)
-* Small group reformer Pilates classes (up to 4 participants)
+* Private Pilates sessions (1:1)
+* Small group Pilates classes on the Reformer (up to 4 participants)
 * Individual attention and personalised guidance
 * Suitable for beginners as well as experienced participants
 

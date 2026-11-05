@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Egyéni Reformer Pilates</h3>
 				</header>
-				<p>Az egyéni Reformer Pilates órákon nem másokhoz mérjük a fejlődést, hanem önmagadhoz. Célom, hogy biztonságos, támogató környezetben fedezd fel a mozgás örömét, erősödj, magabiztosabbá válj, és olyan testtudatot alakíts ki, amely a mindennapokban is elkísér.</p>
+				<p>Az egyéni pilates órákon nem másokhoz mérjük a fejlődést, hanem önmagadhoz. Célom, hogy biztonságos, támogató környezetben fedezd fel a mozgás örömét, erősödj, magabiztosabbá válj, és olyan testtudatot alakíts ki, amely a mindennapokban is elkísér.</p>
 				<ul class="actions">
 					<li><a href="07_egyeni_pilates.html" class="button">Tovább</a></li>
 				</ul>

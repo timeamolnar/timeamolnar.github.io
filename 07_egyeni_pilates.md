@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Egyéni Reformer Pilates
+title: Egyéni Pilates Reformeren
 description: Egyéni reformer pilates órák Balatonalmádiban
 image: assets/images/pic11.jpg
 nav-menu: false
